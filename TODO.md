@@ -1,9 +1,8 @@
 ## TODO:
-- [ ] Develop test dataloader
-    - [ ] Visualize 3D bounding boxes for all labels in test data
+- [ ] Develop pseudo dataloader
+    - [ ]  Reiterate into a class. Optimize.
 
 ## In Progress:
-- [ ] Map 3D box center and visualize.
 
 ## Done ✓
 
@@ -11,3 +10,5 @@
 - [x] Write basic functions to read and visulaize test data
 - [x] Visualize 2D bbox
 - [x] Read Calibration file and store.
+- [x] Plot 3D bounding boxes and check visualization
+- [x] Save result in kitti_test/output as a video file. Check FPS
